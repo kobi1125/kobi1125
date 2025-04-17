@@ -10,4 +10,4 @@
 - **E-Learning App for Java & DSA** – Firebase Auth, Certification, Quizzes
 - [More coming soon...]
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/YOUR_LINK) | [Email](mailto:mathikobi1125@gmail.com)
+📫 Connect with me: [LinkedIn](http://linkedin.com/in/kobiga-mathivarathan) | [Email](mailto:mathikobi1125@gmail.com)
