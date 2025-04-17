@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kobiga 👩‍💻
+🎓 Higher Diploma in Computer Science  
+💼 Aspiring Java & Android Developer  
+📱 Creator of [E-Learning Java App](https://github.com/kobi1125/E-Learning-Java-DSA)
 
-<!--
-**kobi1125/kobi1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- Java | Android Studio | Firebase | GitHub | XML | OOP
 
-Here are some ideas to get you started:
+## 📘 Projects
+- **E-Learning App for Java & DSA** – Firebase Auth, Certification, Quizzes
+- [More coming soon...]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/YOUR_LINK) | [Email](mailto:mathikobi1125@gmail.com)
